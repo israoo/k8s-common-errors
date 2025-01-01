@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Pod
 metadata:
-  name: image-not-available
+  name: image-available
 spec:
   containers:
     - name: app

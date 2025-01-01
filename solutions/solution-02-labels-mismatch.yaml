@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Pod
 metadata:
-  name: labels-mismatch
+  name: labels-matched
   labels:
     app: app-label
 spec:
